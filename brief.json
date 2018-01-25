@@ -1,0 +1,7 @@
+{
+  "name": "test-basic",
+  "version": "1.0",
+  "dependencies": [
+    "thrust-bitcodes/majesty"
+  ]
+}
